@@ -1,2 +1,2 @@
-# DevOps-cloud-confic
-Dieses Repository enthält die Konfigurationen für unser DevOps-Projekt.
+# cloud-conf
+cloud configuration for microservices project
